@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-bipartite-agency-router
-description: "Use active pronouns for PR ownership while enforcing blameless neutrality in runbooks." Use this when working on fitzpatrick bipartite agency router.
+description: "Use active pronouns for PR ownership while enforcing blameless neutrality in runbooks. Use this when working on fitzpatrick bipartite agency router."
 category: "Writing & Communication"
 triggers:
   - "bipartite agency router"
